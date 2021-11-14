@@ -1,1 +1,1 @@
-# angular-calculator
+# html-sample
